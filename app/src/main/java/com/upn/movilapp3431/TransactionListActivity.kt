@@ -38,12 +38,12 @@ class TransactionListActivity : ComponentActivity() {
         enableEdgeToEdge()
 
         val transaction = listOf(
-            Transaction("Pago de internet", "28/08/2025", 89.90, "Gasto"),
-            Transaction("Compra en supermercado", "26/08/2025", 152.40, "Gasto"),
-            Transaction("Sueldo mensual", "22/08/2025", 2100.00, "Ingreso"),
-            Transaction("Venta de audífonos", "15/07/2025", 75.00, "Ingreso"),
-            Transaction("Pago de Netflix", "10/07/2025", 29.90, "Gasto"),
-            Transaction("Clases de refuerzo", "03/06/2025", 180.00, "Ingreso")
+            Transaction("Pago recibo de Luz", "23/08/2025",156.10,"Gasto"),
+            Transaction("Pago recibo de Agua", "23/08/2025",23.00,"Gasto"),
+            Transaction("Sueldo mensual", "20/08/2025",1971.20,"Ingreso"),
+            Transaction("Compra de mando para pc", "20/07/2025",130.00,"Gasto"),
+            Transaction("Sueldo por trabajo menor", "05/06/2025",250.00,"Ingreso"),
+            Transaction("Sueldo por corte de stikers","07/07/2025",25.00,"Ingreso")
         )
         setContent {
             MovilApp3431Theme {
