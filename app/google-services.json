@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "578179354018",
+    "firebase_url": "https://movil3433-41bff-default-rtdb.firebaseio.com",
+    "project_id": "movil3433-41bff",
+    "storage_bucket": "movil3433-41bff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578179354018:android:2dd4bd04aa33c2e2b9b6fb",
+        "android_client_info": {
+          "package_name": "com.upn.movilapp3431"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4VX5fqiR7RZNxOAVLrSz3DdoCgiiIDcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
