@@ -26,11 +26,13 @@ class LlenadoDeDatosPruebas {
 
     fun getSeries(): List<Serie> {
         return listOf(
-            Serie("Breaking Bad", 62),
+            Serie("Moisés y los Diez Mandamientos", 242),
+            Serie("Vikingos", 89),
+            Serie("Haikyuu!!", 85),
+            Serie("Chainsaw Man", 12),
+            Serie("Vis a Vis", 40),
             Serie("Stranger Things", 34),
-            Serie("The Office", 201),
-            Serie("Game of Thrones", 73),
-            Serie("The Mandalorian", 24)
+            Serie("Game of Thrones", 73)
         )
     }
 }
